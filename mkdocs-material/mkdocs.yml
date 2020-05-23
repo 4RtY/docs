@@ -28,8 +28,8 @@ site_description: >-
   searchable, mobile-friendly, 40+ languages
 
 # Repository
-repo_name: docs/mkdocs-material
-repo_url: https://github.com/docs/mkdocs-material
+repo_name: squidfunk/mkdocs-material
+repo_url: https://github.com/squidfunk/mkdocs-material
 edit_uri: ""
 
 # Copyright
