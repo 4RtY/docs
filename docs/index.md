@@ -1,4 +1,4 @@
-# Welcome to MkDocs
+# Welcome to docs for arty's project!
 
 For full documentation visit [mkdocs.org](https://www.mkdocs.org).
 
