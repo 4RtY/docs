@@ -19,17 +19,17 @@
 # IN THE SOFTWARE.
 
 # Project information
-site_name: Material for MkDocs
-site_url: https://squidfunk.github.io/mkdocs-material/
-site_author: Martin Donath
+site_name: Docs
+site_url: https://4RtY.github.io/docs/mkdocs-material/
+site_author: 4RtY
 site_description: >-
   Create a branded static site from a set of Markdown files to host the
   documentation of your Open Source or commercial project – customizable,
   searchable, mobile-friendly, 40+ languages
 
 # Repository
-repo_name: squidfunk/mkdocs-material
-repo_url: https://github.com/squidfunk/mkdocs-material
+repo_name: 4RtY/docs
+repo_url: https://github.com/4RtY/docs/mkdocs-material
 edit_uri: ""
 
 # Copyright
